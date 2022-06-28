@@ -10,8 +10,8 @@ APPLICATION :
 
 DATABASE : 
 
-<img width="957" alt="Screenshot (412)" src="https://user-images.githubusercontent.com/88736121/176321348-4afcca6d-b547-4991-b4be-018c2bd17d14.png">
+
+<img width="957" alt="Screenshot (412)" src="https://user-images.githubusercontent.com/88736121/176321465-7c826305-0ad4-4166-b909-e82fa1536e24.png">
 
 
-<img width="958" alt="Screenshot (413)" src="https://user-images.githubusercontent.com/88736121/176321357-4f7af6ee-2361-4ad0-92f6-27854e4adbe5.png">
-
+<img width="955" alt="Screenshot (413)" src="https://user-images.githubusercontent.com/88736121/176321468-9bf0597b-cef2-47d8-b6f8-76e302599110.png">
